@@ -1,0 +1,14 @@
+feature,mean_abs_shap
+enforcement,0.066261489
+design,0.029840572
+env,0.027988573
+materials,0.020782443
+experience_6–10 years,0.009169908
+region_Eastern,0.006402682
+region_Northern,0.006361121
+region_Western,0.00613182
+role_Consultant,0.004790234
+experience_16+ years,0.004703062
+role_Government official,0.003774771
+role_Contractor,0.002324022
+region_Southern,8.02E-05
